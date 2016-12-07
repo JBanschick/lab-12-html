@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    background: #fff0c2
+}
+p {
+    color: red;
+
+}
+h1 {
+	margin: 20px;
+    padding: 30px;
+    color: #ffc6c6;
+    background-color: #832b2b;
+    font-size: 34px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: #fff0c2;
+}
+
